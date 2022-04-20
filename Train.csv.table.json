@@ -1,0 +1,274 @@
+{
+  "columns": [
+    {
+      "width": 61,
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false
+    },
+    {
+      "field": "Order No",
+      "title": "Order No",
+      "width": 124,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "User Id",
+      "title": "User Id",
+      "width": 109,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Vehicle Type",
+      "title": "Vehicle Type",
+      "width": 144,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Platform Type",
+      "title": "Platform Type",
+      "width": 154,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Personal or Business",
+      "title": "Personal or Business",
+      "width": 195,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Placement - Day of Month",
+      "title": "Placement - Day of Month",
+      "width": 228,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Placement - Weekday (Mo = 1)",
+      "title": "Placement - Weekday (Mo = 1)",
+      "width": 253,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Placement - Time",
+      "title": "Placement - Time",
+      "width": 175,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Confirmation - Day of Month",
+      "title": "Confirmation - Day of Month",
+      "width": 244,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Confirmation - Weekday (Mo = 1)",
+      "title": "Confirmation - Weekday (Mo = 1)",
+      "width": 269,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Confirmation - Time",
+      "title": "Confirmation - Time",
+      "width": 192,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Arrival at Pickup - Day of Month",
+      "title": "Arrival at Pickup - Day of Month",
+      "width": 262,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Arrival at Pickup - Weekday (Mo = 1)",
+      "title": "Arrival at Pickup - Weekday (Mo = 1)",
+      "width": 287,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Arrival at Pickup - Time",
+      "title": "Arrival at Pickup - Time",
+      "width": 209,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Pickup - Day of Month",
+      "title": "Pickup - Day of Month",
+      "width": 203,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Pickup - Weekday (Mo = 1)",
+      "title": "Pickup - Weekday (Mo = 1)",
+      "width": 228,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Pickup - Time",
+      "title": "Pickup - Time",
+      "width": 150,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Arrival at Destination - Day of Month",
+      "title": "Arrival at Destination - Day of Month",
+      "width": 292,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Arrival at Destination - Weekday (Mo = 1)",
+      "title": "Arrival at Destination - Weekday (Mo = 1)",
+      "width": 318,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Arrival at Destination - Time",
+      "title": "Arrival at Destination - Time",
+      "width": 240,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Distance (KM)",
+      "title": "Distance (KM)",
+      "width": 152,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Temperature",
+      "title": "Temperature",
+      "width": 147,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Precipitation in millimeters",
+      "title": "Precipitation in millimeters",
+      "width": 234,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Pickup Lat",
+      "title": "Pickup Lat",
+      "width": 129,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Pickup Long",
+      "title": "Pickup Long",
+      "width": 141,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Destination Lat",
+      "title": "Destination Lat",
+      "width": 160,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Destination Long",
+      "title": "Destination Long",
+      "width": 172,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Rider Id",
+      "title": "Rider Id",
+      "width": 114,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Time from Pickup to Arrival",
+      "title": "Time from Pickup to Arrival",
+      "width": 234,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "name": "Order No",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "User Id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Vehicle Type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Platform Type",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Personal or Business",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Placement - Day of Month",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Placement - Weekday (Mo = 1)",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Placement - Time",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Confirmation - Day of Month",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Confirmation - Weekday (Mo = 1)",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Confirmation - Time",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Arrival at Pickup - Day of Month",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Arrival at Pickup - Weekday (Mo = 1)",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Arrival at Pickup - Time",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Pickup - Day of Month",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Pickup - Weekday (Mo = 1)",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Pickup - Time",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Arrival at Destination - Day of Month",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Arrival at Destination - Weekday (Mo = 1)",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Arrival at Destination - Time",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Distance (KM)",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Temperature",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Precipitation in millimeters",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Pickup Lat",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Pickup Long",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Destination Lat",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Destination Long",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Rider Id",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Time from Pickup to Arrival",
+      "type": "any",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
